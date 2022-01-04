@@ -81,6 +81,7 @@ var fight = function(enemyName) {
   }
 };
 
+// function to start a new game
 var startGame = function() {
   
     // reset player stats
